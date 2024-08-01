@@ -40,9 +40,13 @@ The **Ion Community App** is a cutting-edge Kotlin Multiplatform Mobile (KMP) ap
 
 Below are some screenshots showcasing the app’s features:
 
-*   **Service Booking & More**: ![Service Booking & More](file-Ppu2isS4V1A79Xlk8h73YlzW.jpg)
-*   **Navigation and Features**: ![Navigation and Features](file-5mqa5sWUjGbgIPAp6aOUiz2E.jpg)
-  
+<div style="display: flex; justify-content: space-between;">
+    <img src="img/1.png" alt="iPhone Screenshot 1" style="width: 18%;">
+    <img src="img/2.png" alt="iPhone Screenshot 2" style="width: 18%;">
+    <img src="img/3.png" alt="iPhone Screenshot 3" style="width: 18%;">
+    <img src="img/4.png" alt="iPhone Screenshot 4" style="width: 18%;">
+    <img src="img/5.png" alt="iPhone Screenshot 5" style="width: 18%;">
+</div>
 
 📬 Contact
 ----------
