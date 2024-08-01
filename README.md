@@ -41,11 +41,31 @@ The **Ion Community App** is a cutting-edge Kotlin Multiplatform Mobile (KMP) ap
 Below are some screenshots showcasing the app’s features:
 
 <div style="display: flex; justify-content: space-between;">
-    <img src="img/1.png" alt="iPhone Screenshot 1" style="width: 18%;">
-    <img src="img/2.png" alt="iPhone Screenshot 2" style="width: 18%;">
-    <img src="img/3.png" alt="iPhone Screenshot 3" style="width: 18%;">
-    <img src="img/4.png" alt="iPhone Screenshot 4" style="width: 18%;">
-    <img src="img/5.png" alt="iPhone Screenshot 5" style="width: 18%;">
+    <img src="img/1.png" alt="iPhone Screenshot 1"  style="width: 18%;">
+    <img src="img/2.png" alt="iPhone Screenshot 2"  style="width: 18%;">
+    <img src="img/3.png" alt="iPhone Screenshot 3"  style="width: 18%;">
+    <img src="img/4.png" alt="iPhone Screenshot 4"  style="width: 18%;">
+    <img src="img/5.png" alt="iPhone Screenshot 5"  style="width: 18%;">
+    <img src="img/6.png" alt="iPhone Screenshot 6"  style="width: 18%;">
+    <img src="img/7.png" alt="iPhone Screenshot 7"  style="width: 18%;">
+    <img src="img/8.png" alt="iPhone Screenshot 8"  style="width: 18%;">
+    <img src="img/9.png" alt="iPhone Screenshot 9"  style="width: 18%;">
+    <img src="img/10.png" alt="iPhone Screenshot 10"  style="width: 18%;">
+    <img src="img/11.png" alt="iPhone Screenshot 11"  style="width: 18%;">
+    <img src="img/12.png" alt="iPhone Screenshot 12"  style="width: 18%;">
+    <img src="img/13.png" alt="iPhone Screenshot 13"  style="width: 18%;">
+    <img src="img/14.png" alt="iPhone Screenshot 14"  style="width: 18%;">
+    <img src="img/15.png" alt="iPhone Screenshot 15"  style="width: 18%;">
+    <img src="img/16.png" alt="iPhone Screenshot 16"  style="width: 18%;">
+    <img src="img/17.png" alt="iPhone Screenshot 17"  style="width: 18%;">
+    <img src="img/18.png" alt="iPhone Screenshot 18"  style="width: 18%;">
+    <img src="img/19.png" alt="iPhone Screenshot 19"  style="width: 18%;">
+    <img src="img/20.png" alt="iPhone Screenshot 20"  style="width: 18%;">
+    <img src="img/21.png" alt="iPhone Screenshot 21"  style="width: 18%;">
+    <img src="img/22.png" alt="iPhone Screenshot 22"  style="width: 18%;">
+    <img src="img/23.png" alt="iPhone Screenshot 23"  style="width: 18%;">
+    <img src="img/24.png" alt="iPhone Screenshot 24"  style="width: 18%;">
+    <img src="img/25.png" alt="iPhone Screenshot 25"  style="width: 18%;">
 </div>
 
 📬 Contact
