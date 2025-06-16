@@ -74,5 +74,3 @@ Below are some screenshots showcasing the app’s features:
 For more information or specific inquiries, please reach out to the project maintainers.
 
 * * *
-
-Feel free to adjust the text as needed to better match your app's branding and style!
